@@ -1,2 +1,2 @@
 # CORE-JAVA-PROJECT
-All Core Java Topic wise  Program 
+All Core Java Related Project
