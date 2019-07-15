@@ -1,2 +1,2 @@
-# CORE-JAVA-PROJECT
-All Core Java Related Project
+# CORE-JAVA-PROGRAM
+All Core Java Related Program
